@@ -7,3 +7,4 @@ tradiderat dixit poteris, adde aliis ora mater Latous quod quisque. Quid nympha
 tabe pedum, altera, nutantem duritiem, vix mihique sed credula reclinis putaret
 iaces.
 Acabo de crear una línea nueva en el archivo tercero.txt ...
+Este archivo es una copia y pega del archivo tercero.txt
