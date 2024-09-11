@@ -1,0 +1,9 @@
+01-archivos
+01-archivos/tercero.txt
+01-archivos/segundo.txt
+01-archivos/primero.txt
+01-archivos/imagenes
+01-archivos/folder1
+01-archivos/folder1/abc.txt
+01-archivos/folder1/cualquiera2.txt
+01-archivos/folder1/cualquiera.txt
