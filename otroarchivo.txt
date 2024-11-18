@@ -1,0 +1,1 @@
+acabo de meter informacion en este archivo. La carpeta curso está clonada y después queremos hace4r un commit.
